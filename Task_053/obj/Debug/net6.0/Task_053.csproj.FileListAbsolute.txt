@@ -1,0 +1,15 @@
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\bin\Debug\net6.0\Task_053.exe
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\bin\Debug\net6.0\Task_053.deps.json
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\bin\Debug\net6.0\Task_053.runtimeconfig.json
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\bin\Debug\net6.0\Task_053.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\bin\Debug\net6.0\ref\Task_053.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\bin\Debug\net6.0\Task_053.pdb
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.csproj.AssemblyReference.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.GeneratedMSBuildEditorConfig.editorconfig
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.AssemblyInfoInputs.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.AssemblyInfo.cs
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.csproj.CoreCompileInputs.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\ref\Task_053.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.pdb
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_07\Task_053\obj\Debug\net6.0\Task_053.genruntimeconfig.cache
